@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate Data engineer. I love to explore
 - 🎓 Graduated from Pontifician Javeriana University, with a degree in Business Intelligence.
 
 ## 📄 Download My CV
-You can download my CV by clicking [here](https://github.com/javigarlop/resume/raw/main/JG_CV.pdf).
+You can download my CV by clicking [here](https://github.com/javigarlop/resume/raw/main/JavierGarcia_Resume_DataEngineer.pdf).
 
 ## 🔗 Connect with Me on LinkedIn
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/edjagalo/).
