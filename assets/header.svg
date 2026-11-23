@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" role="img" aria-labelledby="title">
+  <title id="title">Javier García, Senior Data Engineer · Data Platforms on AWS &amp; GCP</title>
+  <style>
+    .name { font: 700 48px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #2F81F7; animation: fade .8s ease-out both; }
+    .headline { font: 20px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #6E7681; }
+    .cursor { fill: #2F81F7; }
+    .reveal { transform-box: fill-box; transform-origin: left; animation: type 2.5s linear .8s both; }
+    .blink { animation: blink 1s step-end infinite; }
+    @keyframes fade { from { opacity: 0; } }
+    @keyframes type { from { transform: scaleX(0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .name, .reveal { animation: none; }
+    }
+  </style>
+  <defs>
+    <clipPath id="typed">
+      <rect class="reveal" x="20" y="95" width="600" height="35"/>
+    </clipPath>
+  </defs>
+  <text class="name" x="20" y="70">Javier García</text>
+  <text class="headline" x="20" y="120" textLength="600" lengthAdjust="spacingAndGlyphs" clip-path="url(#typed)">Senior Data Engineer · Data Platforms on AWS &amp; GCP</text>
+  <rect class="cursor blink" x="20" y="102" width="10" height="22">
+    <animate attributeName="x" from="20" to="624" begin="0.8s" dur="2.5s" fill="freeze"/>
+  </rect>
+</svg>
