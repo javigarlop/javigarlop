@@ -12,13 +12,6 @@ I care about dimensional modeling, idempotent and tested pipelines, Terraform an
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-## Experience
-
-- **Capitole Consulting** · Senior Data Engineer · 2026 to present: contract intelligence data platform, from empty repo to UAT in 4 months.
-- **Devoteam** · Senior Data Engineer · 2025 to 2026: led an advertising data platform unifying 7 sources in BigQuery, plus a text-to-SQL GenAI agent used by 500+ marketers.
-- **Evolutio Cloud Enabler** · Senior Data Engineer · 2024 to 2025: migrated 2 years of data-lake history to Redshift with PySpark on Glue, cutting processing time by 50%.
-- **NTT Data** · AI Engineer · 2023 to 2024: recommendation system on Vertex AI across 13 European countries.
-- Earlier: Nexllence (Glintt), Mercado Libre, and business intelligence roles in Bogotá.
 
 ## Featured project
 
