@@ -1,6 +1,6 @@
 <img src="assets/header.svg" alt="Javier García, Senior Data Engineer · Data Platforms on AWS & GCP" width="100%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-edjagalo-0A66C2?style=flat-square)](https://www.linkedin.com/in/edjagalo/) [![Email](https://img.shields.io/badge/Email-edjagalo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edjagalo@gmail.com) [![Website](https://img.shields.io/badge/Web-edjagalo.dev-24292F?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://www.edjagalo.dev) [![CV](https://img.shields.io/badge/CV-PDF-2EA44F?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/javigarlop/resume/raw/main/JavierGarcia_Resume_DataEngineer.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edjagalo-0A66C2?style=flat-square)](https://www.linkedin.com/in/edjagalo/) [![Email](https://img.shields.io/badge/Email-edjagalo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edjagalo@gmail.com) [![Website](https://img.shields.io/badge/Web-edjagalo.dev-24292F?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://www.edjagalo.dev) [![CV](https://img.shields.io/badge/CV-PDF-2EA44F?style=flat-square&logo=readdotcv&logoColor=white)](https://www.edjagalo.dev/documents/JavierGarcia_Resume_DataEngineer.pdf)
 
 ## About me
 
